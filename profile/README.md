@@ -1,6 +1,6 @@
 # Open Quantum Safe
 
-The Open Quantum Safe (OQS) project is an open-source project that aims to support the development and prototyping of [quantum-resistant cryptography](post-quantum-crypto). OQS is part of the [Linux Foundation](https://www.linuxfoundation.org/).
+The Open Quantum Safe (OQS) project is an open-source project that aims to support the development and prototyping of [quantum-resistant cryptography](https://openquantumsafe.org/post-quantum-crypto.html). OQS is part of the [Linux Foundation](https://www.linuxfoundation.org/).
 
 OQS consists of two main lines of work: [liboqs](https://github.com/open-quantum-safe/liboqs), an open source C library for quantum-resistant cryptographic algorithms, and prototype integrations into [protocols and applications](https://openquantumsafe.org/applications/), including a [provider for the widely used OpenSSL library](https://github.com/open-quantum-safe/oqs-provider).  These tools support [research](https://openquantumsafe.org/research/) by ourselves and others.
 
